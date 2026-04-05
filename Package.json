@@ -1,7 +1,7 @@
 {
   "name": "backend-site",
   "version": "1.0.0",
-  "description": "Backend pour site inscription / connexion",
+  "description": "Backend simple pour site connexion / inscription",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
